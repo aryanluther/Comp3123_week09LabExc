@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App welcomen = "Welcome to Fullstack Development-1" topic = "React Js Programing Week09 Lab Exercise" stid = "101282617" fname ="Aryan Luthra" college="George Brown College"/>
   </React.StrictMode>,
   document.getElementById('root')
 );
